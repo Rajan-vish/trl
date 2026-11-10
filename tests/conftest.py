@@ -95,6 +95,7 @@ MODEL_REVISIONS = {
     "trl-internal-testing/tiny-DeepseekV3ForCausalLM": "refs/pr/5",
     "trl-internal-testing/tiny-DeepseekV3ForCausalLM-0528": "refs/pr/6",
     "trl-internal-testing/tiny-GptOssForCausalLM": "refs/pr/5",
+    "trl-internal-testing/tiny-MistralLarge4ForConditionalGeneration": "refs/pr/2",
 }
 
 
